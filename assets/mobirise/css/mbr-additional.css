@@ -1784,7 +1784,7 @@ body {
 .cid-rdL5eOh7zP {
   padding-top: 105px;
   padding-bottom: 30px;
-  background-color: #073b4c;
+  background-color: #efefef;
 }
 @media (min-width: 992px) {
   .cid-rdL5eOh7zP .mbr-figure {
@@ -1804,14 +1804,16 @@ body {
 .cid-rdL5eOh7zP .mbr-text,
 .cid-rdL5eOh7zP .mbr-section-btn {
   text-align: center;
+  color: #030303;
 }
 .cid-rdL5eOh7zP H1 {
   text-align: center;
+  color: #030303;
 }
 .cid-rdLgsd0sVM {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #073b4c;
+  background-color: #efefef;
 }
 .cid-rdLgsd0sVM h4 {
   text-align: left;
